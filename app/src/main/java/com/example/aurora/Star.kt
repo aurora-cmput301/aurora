@@ -1,7 +1,7 @@
 package com.example.aurora
 
-class Circle(
+class Star(
     x: Int,
     y: Int,
-    var radius: Int
+    var points: Int
 ) : Shape(x, y)
