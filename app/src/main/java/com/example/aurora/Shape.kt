@@ -1,5 +1,10 @@
 package com.example.aurora
 
-abstract class Shape (var x: Int, var y: Int){
-    //empty class body
+abstract class Shape(
+    var x: Int,
+    var y: Int,
+    val color: String = "pink"
+
+){
+    
 }
