@@ -3,7 +3,7 @@ package com.example.aurora
 abstract class Shape(
     var x: Int,
     var y: Int,
-    val color: String = "pink_v2"
+    val color: String = "pink"
 
 ){
     
